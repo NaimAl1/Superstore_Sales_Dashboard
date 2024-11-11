@@ -1,5 +1,7 @@
 # Superstore Sales Dashboard
 
+[Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+
 **Goal**: Leveraged business intelligence techniques to develop a comprehensive sales dashboard in Power BI to analyse a retail dataset, providing insight on sales, profit and order trends.
 
 **Approach**: Designed and implemented dynamic visuals, tracking essential KPIs (monthly sales, profit margins, and order volumes) across different product categories and regions. Integrated interactive filters to allow end users to explore sales trends by category, payment mode, and customer segment.
